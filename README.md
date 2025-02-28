@@ -34,6 +34,6 @@ To access the AdventureWorks2019 eCommerce dataset in Google BigQuery's public d
 
 Below is the business entities model highlights key tables related to customers, vendors, businesses, addresses, and contacts. It helps in understanding how different entities interact
 
-![Screenshot 2025-02-28 at 12.22.10 am.png](attachment:359f2788-429a-462a-b6ca-fa46a3fff206:cfdd6dbc-8d7a-4080-b82b-614ee760d9ff.png)
+![Image](https://github.com/user-attachments/assets/a03e53bd-dfc7-46e4-aa5e-4592e80e4084)
 
 ## 5. Exploring the Dataset
